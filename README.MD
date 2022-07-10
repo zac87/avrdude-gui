@@ -11,4 +11,9 @@ AVRdude-GUI gives you a easy to use interface for avrdude command. The output is
 https://github.com/dwmkerr/consolecontrol
 
 
+<h3>License</h3>
+
 MIT License
+
+
+(c) copyright 2022 globment.de
